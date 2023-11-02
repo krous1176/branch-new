@@ -1,0 +1,55 @@
+[33mcommit 2716cc772f0debdad79eea9f6a046ec1f49abcf4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 4bb4366 c16478e
+Author: Bak Minki <krous1176@gachon.ac.kr>
+Date:   Thu Nov 2 20:41:30 2023 +0900
+
+    resolved conflict
+
+[33mcommit c16478ed9faf82f1235d36f9368f579518393abb[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: krous1176 <62982133+krous1176@users.noreply.github.com>
+Date:   Thu Nov 2 20:35:10 2023 +0900
+
+    Hotfix team's solution
+
+[33mcommit 4bb4366d7b791a10136ca409262e3f1c86e697e9[m
+Author: Bak Minki <krous1176@gachon.ac.kr>
+Date:   Thu Nov 2 20:32:52 2023 +0900
+
+    hotfix my solution
+
+[33mcommit c02a3caf8e07709873a8b58de93dcadf5fd5a5c9[m
+Merge: a8e4542 795fa58
+Author: Bak Minki <krous1176@gachon.ac.kr>
+Date:   Thu Oct 26 21:14:18 2023 +0900
+
+    Testing..
+
+[33mcommit a8e454298b9f08c0051182e8ef4a9849aa1ed4ac[m
+Author: Bak Minki <krous1176@gachon.ac.kr>
+Date:   Thu Oct 26 21:13:04 2023 +0900
+
+    issue closed
+
+[33mcommit 795fa58ff8659447567ca7551ccf475403e5cc0c[m
+Author: Bak Minki <krous1176@gachon.ac.kr>
+Date:   Thu Oct 26 21:08:54 2023 +0900
+
+    new feature
+
+[33mcommit 839ed1c229b3b2584553c1ab7a24bd1020973039[m
+Author: Bak Minki <krous1176@gachon.ac.kr>
+Date:   Thu Oct 26 20:59:17 2023 +0900
+
+    third commit
+
+[33mcommit c407a30e677b8fade71945df8d7b69a8aa584fce[m
+Author: Bak Minki <krous1176@gachon.ac.kr>
+Date:   Thu Oct 26 20:58:30 2023 +0900
+
+    second commit
+
+[33mcommit 9cb50e6529a3d2ad1105f8fc787104cb573bd313[m
+Author: Bak Minki <krous1176@gachon.ac.kr>
+Date:   Thu Oct 26 20:57:25 2023 +0900
+
+    first commit
